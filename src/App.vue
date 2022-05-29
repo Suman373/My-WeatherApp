@@ -45,7 +45,7 @@ export default {
   },
   methods: {
     fetchWeather(e) {
-      if (e.key == "Enter") {
+      if (e.key === "Enter" || e.keyCode === 13) {
         fetch(`${this.base_url}?q=${this.query}`,{
           method: 'GET',
           headers:{'X-RapidAPI-Host': 'weatherapi-com.p.rapidapi.com','X-RapidAPI-Key': 'bd'
