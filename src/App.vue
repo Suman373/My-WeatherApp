@@ -7,7 +7,6 @@
         placeholder="Search..."
         v-model="query"
         @keypress="fetchWeather"
-        @keydown="isVisible=true;"
 
       />
       <div class="location-box" v-if="isVisible">
@@ -36,8 +35,7 @@ export default {
   name: "app",
   data() {
     return {
-      isVisible:false,
-      api_key: "18bab2eda6msh0029f8a7d7fcf40p1af132jsn0ef36b5211bd",
+      api_key: "",
       base_url: "https://weatherapi-com.p.rapidapi.com/current.json",
       query: '',
       weather: {},
@@ -50,7 +48,7 @@ export default {
       if (e.key == "Enter") {
         fetch(`${this.base_url}?q=${this.query}`,{
           method: 'GET',
-          headers:{'X-RapidAPI-Host': 'weatherapi-com.p.rapidapi.com','X-RapidAPI-Key': '18bab2eda6msh0029f8a7d7fcf40p1af132jsn0ef36b5211bd'
+          headers:{'X-RapidAPI-Host': 'weatherapi-com.p.rapidapi.com','X-RapidAPI-Key': 'bd'
           }
         })
           .then((response) => {
@@ -59,10 +57,7 @@ export default {
           .then(this.setResults);
       }
     },
-    setResults(results) {
-      this.weather = results.location;
-      this.info = results.current;
-      this.link = this.info.condition.icon;
+    
     },
   },
 };
