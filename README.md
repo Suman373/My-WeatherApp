@@ -1,6 +1,6 @@
-# My WeatherApp
+## My WeatherApp
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
