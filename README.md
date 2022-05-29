@@ -1,4 +1,4 @@
-# weather-app
+# My WeatherApp
 
 ## Project setup
 ```
