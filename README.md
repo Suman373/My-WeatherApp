@@ -1,3 +1,5 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/95040233/171010826-40b169e4-a0bd-4274-a886-962c5bb48109.png" ></p>
+
 ## My WeatherApp
 
 ### Project setup
