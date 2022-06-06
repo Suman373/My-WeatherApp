@@ -22,7 +22,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-## Authors
+## Author
 
 - [@Suman373](https://www.github.com/Suman373)
 
@@ -35,7 +35,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - I have deployed this project for hosting, on netlify app.
 - I have future plans to work on this project and add more features along with detailing.
 
-## Badges
+## Badge
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
