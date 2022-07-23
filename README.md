@@ -42,25 +42,16 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ## Technologies used
 
-![Vue()](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vue()](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Npm()](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Eslint()](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white) ![VSCode()](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Netlify()](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Html()](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS()](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript()](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![Npm()](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-![Eslint()](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-
-![VSCode()](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-![Netlify()](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-![Html()](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS()](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Javascript()](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-## Feedback
-
-### If you see any issue in my project, feel free to create an issue and contribute to this project! If you want to contact me, head to my profile, you can see my mail there! Have a good day!
+### CONTRIBUTION 
+Wanna contribute something to this project? Here are the ways to get started : 
+1. Create an issue, with a brief description of the problem.
+2. Comment on the issue, on how you can solve it and the intuition behind it.
+3. Fork the repo, create a branch 'patch-1' and update the code.
+4. Once you have solved the problem, show snapshots as a proof of the credibility for the solution ** just as an example as the code would get merged to the master branch** 
+5. Make the PR, and wait till it gets merged.
+6. And there you go!!! You contributed to a remote project, you just moved one step forward in your open-source journey! Keep the hustle on!!
 
 ## Made with Vue3 and Love &#10084;
 
